@@ -1,0 +1,17 @@
+# Import my file with all my DNA sequences from my Dropbox directory
+ 
+# Take only those sequences that are from inter-Anden valleys and save them in a different file called mice_from_valleys
+
+# Take only those sequences that are from highlands and save them in a different file called mice_from_paramos
+
+# To make the codon partitions make a function that catches base pares from the first position of every codon and save it into a different file, do the same thing for the second third position of every codon.
+
+# Calculate the evolutionary models fro the different partitions
+
+#Concatane all the DNA sequence into a single fast file 
+
+# Make the phylogenetic reconstruction trough Python 
+
+# Add the DNA sequence to an excel with the geographic coordinates 
+
+#trough the program Gengis, make a plot of the phylogeny with the geographic distribution 
